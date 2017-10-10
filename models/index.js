@@ -1,0 +1,1 @@
+exports.Student = require('./student')
